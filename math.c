@@ -10,3 +10,5 @@ return a*b;
 int Division (int a, int b){
 return a-b;
 }
+
+new methodHere();
